@@ -129,6 +129,11 @@ Collect Logs → Normalize → Detect Threats → Investigate → Respond → Au
 * 🚀 Preparing for L2/L3 SOC Roles
 
 ---
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🤝 Connect with Me
 
@@ -149,3 +154,4 @@ Collect Logs → Normalize → Detect Threats → Investigate → Respond → Au
 <p align="center">
   ⚡ <b>"Detect. Analyze. Defend. Automate."</b>
 </p>
+
